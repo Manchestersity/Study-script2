@@ -1,0 +1,4 @@
+start
+new first_name string
+set greetings "Моё имя" + Данил
+finish
